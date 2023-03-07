@@ -1,0 +1,19 @@
+Instructions on How To Run and Use My CSC Rainbow Six Teams Program
+
+First, You will need to run the program.
+You will be prompted to press one or two for Attacker or Defender respectively.
+It does not matter which one you choose.
+
+Second, you will be prompted to fill out the file name you would like to use for the testing. 
+You can name it whatever you would like but please remember it for further testing.
+
+
+Third, you will fill out your favorite ten names from that list of operators. 
+You can choose whichever operators you like the most, and they will be wrote into a file.
+
+Fourth, you will be asked to reenter your file name from earlier.
+
+Fifth, You will narrow down your favorite operators form 10 to 5, then you will rate your operators
+on a scale from 1-10 on how much you like them. 
+
+Finally, there will be a report showing these names of the operators and how well you like them.
